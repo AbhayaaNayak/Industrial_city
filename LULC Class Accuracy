@@ -1,4 +1,5 @@
-LATITUDE	    LONGITUDE	 	       Observed class	 Real class 
+|LATITUDE|	    |LONGITUDE|	 	       |Observed class|	 |Real class|
+|--------|      |---------|          |--------------|  |----------|
 22.261434	     84.874153	             	        urban	                urban
 22.2519	     84.9151	                      urban		  bare land
 22.255843	     84.853773	                      urban	 	 vegetation
