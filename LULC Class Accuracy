@@ -1,14 +1,15 @@
 LATITUDE	    LONGITUDE	 	       Observed class	 Real class 
-22.261434	 		84.874153	         urban	          urban
-22.2519	   		84.9151	           urban					  barren
-22.255843			84.853773	         urban	 				  vegetation
-22.261389			84.874101	         urban				  	urban
-22.254501			84.863458					 urban						urban
-22.254464			84.863474		  	   urban						urban
-22.253887			84.853815			     urban						urban
-22.253854			84.853813				   urban						urban
-22.253833			84.853875					 urban						urban
-22.253866			84.86486				   urban						urban
-22.253927			84.864899					 urban						urban
+22.261434	     84.874153	             	        urban	                urban
+22.2519	     84.9151	                      urban		  bare land
+22.255843	     84.853773	                      urban	 	 vegetation
+22.261389	    84.874101	                      urban		 urban
+22.254501	    84.863458		       urban		 urban
+22.254464	    84.863474		       urban		 urban
+22.253887	    84.853815	                     urban		 urban
+22.253854	   84.853813		       urban		 urban
+22.253833	   84.853875		       urban		 urban
+22.253866	   84.86486		       urban		 urban
+22.253927	   84.864899		       urban		 urban
 
-Accuracy observed = 80%. 
+Accuracy observed = 80%.
+
